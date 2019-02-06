@@ -1,12 +1,6 @@
 ## Explorers
-Mainnet
-```
-```
-
-Testnet
-```
-http://52.79.145.163:4000
-```
+- [Mainnet]()
+- [Testnet](http://52.79.145.163:4000)
 
 ## Chain ID
 Mainnet
