@@ -1,6 +1,6 @@
 ## Explorers
-- [Mainnet]()
-- [Testnet](http://52.79.145.163:4000)
+- [Mainnet - https://ghuchain.com](https://ghuchain.com)
+- [Testnet - https://testnet.ghuchain.com](http://testnet.ghuchain.com)
 
 ## Chain ID
 Mainnet
