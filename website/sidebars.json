@@ -1,0 +1,23 @@
+{
+  "docs": {
+    "Welcome": [
+      "home"
+    ],
+    "Connect To Node": [
+      "connect-to-node-metadata",
+      "connect-to-node-metamask"
+    ],
+    "Deploy Node": [
+      "deploy-node-metadata",
+      "deploy-node-create-account",
+      "deploy-node-client-regular",
+      "deploy-node-client-docker",
+      "deploy-node-sealer-regular",
+      "deploy-node-sealer-docker",
+      "deploy-node-attach-to-node"
+    ],
+    "Explorer": [
+      "explorer-links"
+    ]
+  }
+}
