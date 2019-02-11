@@ -1,5 +1,5 @@
 ## Wiki
-See [Wiki](https://github.com/ghuchain/wiki/wiki) for all public info. All private info will be placed here in our internal documentation.
+See https://docs.ghuchain.com for all public info. All private info will be placed here in our internal documentation.
 
 ## Server Nodes
 | Location                | Instance Name | IP             |
