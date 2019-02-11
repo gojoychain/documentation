@@ -1,4 +1,11 @@
-/* your custom css */
+.homeSplashContainer {
+    width: 100vw;
+    height: 94vh;
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+}
 
 @media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
 }
