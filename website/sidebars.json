@@ -9,7 +9,7 @@
     ],
     "Deploy Node": [
       "deploy-node-metadata",
-      "deploy-node-create-account",
+      "deploy-node-address-setup",
       "deploy-node-client-regular",
       "deploy-node-client-docker",
       "deploy-node-sealer-regular",
