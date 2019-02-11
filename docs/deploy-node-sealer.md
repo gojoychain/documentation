@@ -39,9 +39,10 @@ sidebar_label: Run Sealer Node
 ## With Docker
 ### Setup
 1. [Create an account](deploy-node-address-setup.md#create-new-address) that will be the recipient of any transaction fees
-2. Clone the [ghu-deployer](https://github.com/ghuchain/ghu-deployer) repo
-3. `cd ghu-deployer/[mainnet|testnet]/sealer`
-4. Create `.env` file. You need to specify: `CHAIN_ID, ETHERBASE_ADDRESS, ACCOUNT_ADDRESS, ACCOUNT_PRIVATE_KEY, ACCOUNT_PASSWORD, BOOTNODES` (see [Chain ID](deploy-node-metadata.md#chain-id) and [Bootnodes](deploy-node-metadata.md#bootnodes)). Do not use any quotes around strings. Example:
+2. Install [Docker](https://docs.docker.com/)
+3. Clone the [ghu-deployer](https://github.com/ghuchain/ghu-deployer) repo
+4. `cd ghu-deployer/[mainnet|testnet]/sealer`
+5. Create `.env` file. You need to specify: `CHAIN_ID, ETHERBASE_ADDRESS, ACCOUNT_ADDRESS, ACCOUNT_PRIVATE_KEY, ACCOUNT_PASSWORD, BOOTNODES` (see [Chain ID](deploy-node-metadata.md#chain-id) and [Bootnodes](deploy-node-metadata.md#bootnodes)). Do not use any quotes around strings. Example:
 
         CHAIN_ID=8899
         ETHERBASE_ADDRESS=0x0000000000000000000000000000000000000000
