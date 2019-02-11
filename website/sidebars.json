@@ -10,10 +10,8 @@
     "Deploy Node": [
       "deploy-node-metadata",
       "deploy-node-address-setup",
-      "deploy-node-client-regular",
-      "deploy-node-client-docker",
-      "deploy-node-sealer-regular",
-      "deploy-node-sealer-docker",
+      "deploy-node-client",
+      "deploy-node-sealer",
       "deploy-node-attach-to-node"
     ],
     "Explorer": [
