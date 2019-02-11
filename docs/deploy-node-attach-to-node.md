@@ -1,7 +1,7 @@
 ---
 id: deploy-node-attach-to-node
-title: Attach to node
-sidebar_label: Attach to node
+title: Attach To Node
+sidebar_label: Attach To Node
 ---
 
 ## With Docker
