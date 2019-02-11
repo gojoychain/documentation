@@ -47,7 +47,7 @@ const siteConfig = {
   /* path to images for header/footer */
   headerIcon: 'img/ghu_text_logo.png',
   // footerIcon: 'img/ghu_text_logo.png',
-  favicon: 'img/favicon.png',
+  favicon: 'img/favicon/favicon.ico',
 
   /* Colors for website */
   colors: {
