@@ -7,6 +7,10 @@
       "connect-to-node-metadata",
       "connect-to-node-metamask"
     ],
+    "GRC223 Token": [
+      "grc223-metadata",
+      "grc223-create-new-token"
+    ],
     "Deploy Node": [
       "deploy-node-metadata",
       "deploy-node-address-setup",
