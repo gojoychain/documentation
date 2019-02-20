@@ -7,6 +7,9 @@
       "connect-to-node-metadata",
       "connect-to-node-metamask"
     ],
+    "GHUSD Stablecoin": [
+      "ghusd-metadata"
+    ],
     "GRC223 Token": [
       "grc223-metadata",
       "grc223-create-new-token"
