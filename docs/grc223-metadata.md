@@ -9,6 +9,7 @@ The `GRC223Factory` Contract is a factory contract which can create new GRC223 T
 
 Mainnet
 ```text
+0xb46c158c53eaf30c88aa4c622d88f3873fd75c44
 ```
 
 Testnet
