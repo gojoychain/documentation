@@ -1,5 +1,8 @@
 #!/bin/sh
 
+echo 'Cleaning up old build files...'
+rm -rf build/
+
 echo 'Generating docs...'
 npm run build
 
