@@ -23,6 +23,10 @@
     ],
     "Explorer": [
       "explorer-links"
+    ],
+    "Address Name Service": [
+      "ans-metadata",
+      "ans-usage"
     ]
   }
 }
