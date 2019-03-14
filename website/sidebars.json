@@ -21,12 +21,12 @@
       "deploy-node-sealer",
       "deploy-node-attach-to-node"
     ],
-    "Explorer": [
-      "explorer-links"
-    ],
     "Address Name Service": [
       "ans-metadata",
       "ans-usage"
+    ],
+    "Explorer": [
+      "explorer-links"
     ]
   }
 }

@@ -4,14 +4,24 @@ title: Metadata
 sidebar_label: Metadata
 ---
 
-Mainnet
+## Chain ID
+### Mainnet
 ```text
-RPC URL: https://api.ghuchain.com/mainnet
-Chain ID: 8888
+Chain ID: 18
 ```
 
-Testnet
+### Testnet
+```text
+Chain ID: 8899
+```
+
+## RPC URL
+### Mainnet
+```text
+RPC URL: https://api.ghuchain.com/mainnet
+```
+
+### Testnet
 ```text
 RPC URL: https://api.ghuchain.com/testnet
-Chain ID: 8899
 ```
