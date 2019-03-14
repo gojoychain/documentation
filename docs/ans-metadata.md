@@ -9,12 +9,12 @@ The `Address Name Service` contract is a contract meant to assign and resolve hu
 ## Address
 ### Mainnet
 ```text
-0xa04ca1e5a31df1648aa138c64b1d0a5107dd50b0
+0xba3De7e5C189E7009eB36896617416F0b580cCA8
 ```
 
 ### Testnet
 ```text
-0x166327708cfaf76b9ff9584071df89aeffb32e5f
+0x7f5931781a2206317fa366a99a9e985d4f9dd970
 ```
 
 ## ABI
