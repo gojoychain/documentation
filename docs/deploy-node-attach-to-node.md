@@ -18,7 +18,7 @@ sidebar_label: Attach To Node
         $ ./attach $CONTAINER_ID
 
 ## Without Docker
-1. Download the `geth` binary from the [Releases Page](https://github.com/ghuchain/go-ghuchain/releases)
+1. Download the `geth` binary from the [Releases Page](https://github.com/ghuchain/go-ghuchain-releases/releases)
 2. You can attach via IPC, HTTP, or WS:
 
         $ geth attach ipc:/your/data/dir/geth.ipc

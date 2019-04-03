@@ -5,7 +5,7 @@ sidebar_label: Run Client Node
 ---
 
 ## With Geth
-1. Download the `geth` binary and `genesis.json` from the [Releases Page](https://github.com/ghuchain/go-ghuchain/releases)
+1. Download the `geth` binary and `genesis.json` from the [Releases Page](https://github.com/ghuchain/go-ghuchain-releases/releases)
 2. Init the node:
 
         $ ./geth --datadir /your/data/dir init genesis.json

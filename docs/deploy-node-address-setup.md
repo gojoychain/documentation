@@ -7,7 +7,7 @@ sidebar_label: Address Setup
 An address is created usually to be used while running a node. If it's a Sealer node, you can use that address as the `Etherbase` in which any transaction fees your node seals will go to that address. If using it on a Client node, you could execute transactions with that address.
 
 ## Create New Address
-1. Download the `geth` binary from the [Releases Page](https://github.com/ghuchain/go-ghuchain/releases)
+1. Download the `geth` binary from the [Releases Page](https://github.com/ghuchain/go-ghuchain-releases/releases)
 2. Run the command:
 
         $ geth account new --datadir /your/data/dir
