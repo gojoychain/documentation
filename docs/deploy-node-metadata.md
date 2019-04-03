@@ -4,6 +4,31 @@ title: Metadata
 sidebar_label: Metadata
 ---
 
+## Client Nodes
+If you would like to connect your applications to our client nodes, use the following URLs.
+
+### Mainnet
+RPC Address
+```text
+https://api.ghuchain.com/mainnet
+```
+
+Enode Address
+```text
+enode://eaac3cede7a0cc235a026fda84848e2151b31d6ee0304197872f73d6d7cc895b24039497bd24e21decd0e586d2cae81312b3a663ca188b101652b4dac1e5f17e@13.125.6.53:40303
+```
+
+### Testnet
+RPC Address
+```text
+https://api.ghuchain.com/testnet
+```
+
+Enode Address
+```text
+enode://428e5d244023faca83c763c6c038eb52b8fc4ce09d19f9409365a2963705e25645cae325b396ccfa993f63c65dd07f8e0ddc3e57496dfca5f4b293cc848fe841@13.125.6.53:30303
+```
+
 ## Chain ID
 ### Mainnet
 ```text

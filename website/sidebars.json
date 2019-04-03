@@ -19,7 +19,8 @@
       "deploy-node-address-setup",
       "deploy-node-client",
       "deploy-node-sealer",
-      "deploy-node-attach-to-node"
+      "deploy-node-attach-to-node",
+      "deploy-node-node-discovery"
     ],
     "Address Name Service": [
       "ans-metadata",
