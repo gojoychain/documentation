@@ -18,10 +18,10 @@ Chain ID: 8899
 ## RPC URL
 ### Mainnet
 ```text
-RPC URL: https://api.ghuchain.com/mainnet
+RPC URL: https://api.ghuchain.com
 ```
 
 ### Testnet
 ```text
-RPC URL: https://api.ghuchain.com/testnet
+RPC URL: https://testapi.ghuchain.com
 ```
