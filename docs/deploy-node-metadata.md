@@ -16,6 +16,8 @@ sidebar_label: Metadata
 ```
 
 ## Bootnodes
+Even though a bootnode has an enode address, they are not regular nodes. Their primary purpose is for node discovery. When [adding a peer](deploy-node-node-discovery.md#add-peer), you should NOT be adding a bootnode enode address. Rather, you should add a [node's enode address](#client-nodes), whether it is a Sealer or Client node.
+
 ### Mainnet
 ```text
 enode://daacb9a4f063b06ee1b8524082004b6cd54f21aa56e0bad0e1610a10dc28ec0a95a7a4b75db40f8882cd0afbaac2288220215d85e54924527189d0842945dce2@52.199.152.20:30301
@@ -30,14 +32,16 @@ enode://a7234e1d40afea7fd54cede92fd8315ed6814c9c596fcf5a2447443e48e1b2801e92db6e
 ```
 
 ## Client Nodes
+The Client nodes are the primary node to send transactions to. These enode addresses are the ones you should be using when [adding a peer](deploy-node-node-discovery.md#add-peer).
+
 ### Mainnet
 Enode Address
 ```text
-enode://eaac3cede7a0cc235a026fda84848e2151b31d6ee0304197872f73d6d7cc895b24039497bd24e21decd0e586d2cae81312b3a663ca188b101652b4dac1e5f17e@13.125.6.53:40303
+enode://a583e231f3f71d170988ed9f68bdfaf038eb07781aee84bf33f088501ac36ad071455c8baf42132e34f9f020c24f48202c8286840d81d26f768f05b721a6e00a@15.164.72.162:30303
 ```
 
 ### Testnet
 Enode Address
 ```text
-enode://428e5d244023faca83c763c6c038eb52b8fc4ce09d19f9409365a2963705e25645cae325b396ccfa993f63c65dd07f8e0ddc3e57496dfca5f4b293cc848fe841@13.125.6.53:30303
+enode://1c331937d90923ab8cfbfdb43c730305e4aba272b8b489717ac01143be1f0db82561e845049b5591776985f9bfa705e758cc1ec09bf662015f97d394651952dc@13.209.165.92:30303
 ```
