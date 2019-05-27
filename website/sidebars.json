@@ -10,9 +10,9 @@
     "JUSD Stablecoin": [
       "jusd-metadata"
     ],
-    "GRC223 Token": [
-      "grc223-metadata",
-      "grc223-create-new-token"
+    "JRC223 Token": [
+      "jrc223-metadata",
+      "jrc223-create-new-token"
     ],
     "Deploy Node": [
       "deploy-node-metadata",
