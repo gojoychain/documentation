@@ -37,17 +37,8 @@ class Footer extends React.Component {
           </a>
           <div>
             <h5>Community</h5>
-            <a href="https://ghu.io" target="_blank">
-              Ghu.io
-            </a>
             <a href="https://github.com/gojoychain" target="_blank">
               Github
-            </a>
-            <a href="https://www.facebook.com/Growth-Hack-Union-721440061587911/" target="_blank">
-              Facebook
-            </a>
-            <a href="https://www.linkedin.com/company/ghu" target="_blank">
-              LinkedIn
             </a>
           </div>
           <div>
