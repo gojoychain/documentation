@@ -15,7 +15,7 @@ sidebar_label: Connecting With Metamask
 
         New RPC URL: (see Metadata section)
         ChainID: (see Metadata section)
-        Symbol: GEC
+        Symbol: JOY
         Nickname: Gojoychain
 
 7. Click the `Save` button
