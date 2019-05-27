@@ -4,8 +4,8 @@ title: Welcome
 sidebar_label: Welcome
 ---
 
-Welcome to the Ghuchain Docs!
+Welcome to the Gojoychain Docs!
 
 ### Server Status
 
-[https://status.ghuchain.com](https://status.ghuchain.com)
+[https://status.gojoychain.com](https://status.gojoychain.com)
