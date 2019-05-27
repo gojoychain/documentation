@@ -16,7 +16,7 @@ sidebar_label: Connecting With Metamask
         New RPC URL: (see Metadata section)
         ChainID: (see Metadata section)
         Symbol: GEC
-        Nickname: Ghuchain
+        Nickname: Gojoychain
 
 7. Click the `Save` button
-8. You should now be connected to the Ghuchain client!
+8. You should now be connected to the Gojoychain client!
