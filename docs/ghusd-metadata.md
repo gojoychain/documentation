@@ -1,16 +1,19 @@
 ---
-id: ghusd-metadata
+id: jusd-metadata
 title: Metadata
 sidebar_label: Metadata
 ---
 
-## GHUSD Token Address
+## JUSD Token Address
+
 ### Mainnet
+
 ```text
-0x5aaa5122da597ea01ef05e6ca3f3f8d34ea16c3d
+0x905b2E89EBC84244c8Fe2047c89955feDe63BBA1
 ```
 
 ### Testnet
+
 ```text
-0xCf3d6838B8C4CbDeeD8216A1e12915C6c3B46Ad7
+0x28d7fEecd1aB9Dae7d83cbB986f2A2Ecb127183d
 ```
