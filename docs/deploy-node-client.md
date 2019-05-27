@@ -39,7 +39,7 @@ sidebar_label: Run Client Node
 ### Setup
 
 1. Install [Docker](https://docs.docker.com/)
-2. Clone the [ghu-deployer](https://github.com/gojoychain/deployer) repo
+2. Clone the [deployer](https://github.com/gojoychain/deployer) repo
 3. `cd deployer/[mainnet|testnet]/client`
 4. Create `.env` file. You need to specify: `CHAIN_ID, BOOTNODES` (see [Chain ID](deploy-node-metadata.md#chain-id) and [Bootnodes](deploy-node-metadata.md#bootnodes)). Do not use any quotes around strings. Example:
 
@@ -49,13 +49,13 @@ sidebar_label: Run Client Node
 ### Start
 
 ```bash
-$ cd ghu-deployer/[mainnet|testnet]/client
+$ cd deployer/[mainnet|testnet]/client
 $ docker-compose up --build -d
 ```
 
 ### Stop
 
 ```bash
-$ cd ghu-deployer/[mainnet|testnet]/client
+$ cd deployer/[mainnet|testnet]/client
 $ docker-compose down
 ```
