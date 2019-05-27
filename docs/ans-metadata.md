@@ -4,7 +4,7 @@ title: ANS Metadata
 sidebar_label: Metadata
 ---
 
-The `Address Name Service` contract is a contract meant to assign and resolve human-readable names to Ghuchain addresses. Similar to a DNS, the `ANS` service is meant to be used as a convenience address resolving layer when executing transactions.
+The `Address Name Service` contract is a contract meant to assign and resolve human-readable names to addresses. Similar to a DNS, the `ANS` service is meant to be used as a convenience address resolving layer when executing transactions.
 
 ## Address
 ### Mainnet
