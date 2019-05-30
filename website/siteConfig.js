@@ -45,9 +45,9 @@ const siteConfig = {
   // users,
 
   /* path to images for header/footer */
-  headerIcon: 'img/logo_ghu_32x32.png',
-  footerIcon: 'img/logo_ghu_58x58.png',
-  favicon: 'img/favicon/favicon.ico',
+  headerIcon: 'img/gojoychain_logo.png',
+  footerIcon: 'img/gojoychain_logo.png',
+  // favicon: 'img/favicon/favicon.ico',
 
   /* Colors for website */
   colors: {
