@@ -46,7 +46,7 @@ class Footer extends React.Component {
           </div>
           <div>
             <h5>Support</h5>
-            <a href="mailto:">Contact Us</a>
+            <a href="mailto:contact@gojoychain.com">Contact Us</a>
           </div>
         </section>
         <section className="copyright">{this.props.config.copyright}</section>
