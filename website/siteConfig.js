@@ -38,7 +38,8 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'home', label: 'Docs'},
+    { href: 'https://gojoychain.com', label: 'Gojoychain.com' },
+    { doc: 'home', label: 'Docs' },
   ],
 
   // If you have users set above, you add it here:
@@ -51,7 +52,7 @@ const siteConfig = {
 
   /* Colors for website */
   colors: {
-    primaryColor: '#e43323',
+    primaryColor: '#e83528',
     secondaryColor: '#23d4e4',
   },
 
