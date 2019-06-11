@@ -37,16 +37,22 @@ class Footer extends React.Component {
           </a>
           <div>
             <h5>Community</h5>
+            <a href="https://gojoychain.com" target="_blank">
+              Mainnet Explorer
+            </a>
+            <a href="https://testnet.gojoychain.com" target="_blank">
+              Testnet Explorer
+            </a>
             <a href="https://github.com/gojoychain" target="_blank">
               Github
-            </a>
-            <a href="https://status.gojoychain.com" target="_blank">
-              Server Status
             </a>
           </div>
           <div>
             <h5>Support</h5>
             <a href="mailto:contact@gojoychain.com">Contact Us</a>
+            <a href="https://status.gojoychain.com" target="_blank">
+              Server Status
+            </a>
           </div>
         </section>
         <section className="copyright">{this.props.config.copyright}</section>
