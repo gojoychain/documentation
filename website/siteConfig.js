@@ -21,8 +21,8 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'Gojoychain Docs', // Title for your website.
-  tagline: 'All your Gojoychain documentation needs',
+  title: 'Gojoy Chain Docs', // Title for your website.
+  tagline: 'All your Gojoy Chain documentation needs',
   url: 'https://gojoychain.com', // Your website URL
   baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
@@ -31,7 +31,7 @@ const siteConfig = {
 
   // Used for publishing and more
   projectName: 'joy-docs',
-  organizationName: 'Gojoychain',
+  organizationName: 'Gojoy Chain',
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
   //   organizationName: 'JoelMarcey'
@@ -45,8 +45,8 @@ const siteConfig = {
   // users,
 
   /* path to images for header/footer */
-  headerIcon: 'img/gojoychain_logo.png',
-  footerIcon: 'img/gojoychain_logo.png',
+  headerIcon: 'img/gojoy_chain_logo_v1.png',
+  footerIcon: 'img/gojoy_chain_logo_v1.png',
   // favicon: 'img/favicon/favicon.ico',
 
   /* Colors for website */
@@ -70,7 +70,7 @@ const siteConfig = {
   */
 
   // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
-  copyright: `Copyright © 2019 Gojoychain`,
+  copyright: `Copyright © 2019 Gojoy Chain`,
 
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks.

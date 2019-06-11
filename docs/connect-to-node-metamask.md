@@ -16,7 +16,7 @@ sidebar_label: Connecting With Metamask
         New RPC URL: (see Metadata section)
         ChainID: (see Metadata section)
         Symbol: JOY
-        Nickname: Gojoychain
+        Nickname: Gojoy
 
 7. Click the `Save` button
-8. You should now be connected to the Gojoychain client!
+8. You should now be connected to the Gojoy Chain client!

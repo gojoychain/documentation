@@ -4,4 +4,4 @@ title: Welcome
 sidebar_label: Welcome
 ---
 
-Welcome to the Gojoychain Docs!
+Welcome to the Gojoy Chain Docs!
