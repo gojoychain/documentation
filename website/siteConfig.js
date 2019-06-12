@@ -46,8 +46,8 @@ const siteConfig = {
   // users,
 
   /* path to images for header/footer */
-  headerIcon: 'img/gojoy_chain_logo_v1.png',
-  footerIcon: 'img/gojoy_chain_logo_v1.png',
+  headerIcon: 'img/gojoy_chain_logo_v2.svg',
+  footerIcon: 'img/gojoy_chain_logo_v2.svg',
   favicon: 'img/favicon/favicon.png',
 
   /* Colors for website */
