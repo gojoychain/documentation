@@ -4,21 +4,7 @@ title: Attach To Node
 sidebar_label: Attach To Node
 ---
 
-## With Docker
-
-1. Install [Docker](https://docs.docker.com/)
-2. Clone the [deployer](https://github.com/gojoychain/deployer) repo
-3. `cd deployer`
-4. Find the docker container's ID you want to connect to:
-
-        $ docker ps
-        // copy the CONTAINER ID of the node you want to connect to
-
-5. Attach using the attach.sh script:
-
-        $ ./attach $CONTAINER_ID
-
-## Without Docker
+## With Geth
 
 1. Download the `geth` binary from the [Releases Page](https://github.com/gojoychain/releases/releases)
 2. You can attach via IPC, HTTP, or WS:
