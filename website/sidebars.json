@@ -3,16 +3,11 @@
     "Welcome": [
       "home"
     ],
+    "Wallets": [
+      "wallets-metamask"
+    ],
     "Connect To Node": [
-      "connect-to-node-metadata",
-      "connect-to-node-metamask"
-    ],
-    "JUSD Stablecoin": [
-      "jusd-metadata"
-    ],
-    "JRC223 Token": [
-      "jrc223-metadata",
-      "jrc223-create-new-token"
+      "connect-to-node-metadata"
     ],
     "Deploy Node": [
       "deploy-node-metadata",
@@ -22,12 +17,16 @@
       "deploy-node-attach-to-node",
       "deploy-node-node-discovery"
     ],
+    "JUSD Stablecoin": [
+      "jusd-metadata"
+    ],
+    "JRC223 Token": [
+      "jrc223-metadata",
+      "jrc223-create-new-token"
+    ],
     "Address Name Service": [
       "ans-metadata",
       "ans-usage"
-    ],
-    "Explorer": [
-      "explorer-links"
     ]
   }
 }

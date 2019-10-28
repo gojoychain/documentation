@@ -1,8 +1,10 @@
 ---
-id: connect-to-node-metamask
-title: Connecting With Metamask
-sidebar_label: Connecting With Metamask
+id: wallets-metamask
+title: Metamask
+sidebar_label: Metamask
 ---
+
+## Connecting to Gojoy with Metamask
 
 1. Download Metamask here:
     - [Chrome Web Store](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)
