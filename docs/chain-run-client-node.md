@@ -1,5 +1,5 @@
 ---
-id: deploy-node-client
+id: chain-run-client-node
 title: Run Client Node
 sidebar_label: Run Client Node
 ---
@@ -11,7 +11,7 @@ sidebar_label: Run Client Node
 
         $ ./geth --datadir /your/data/dir init genesis.json
 
-3. Start the `geth` node (see [Chain ID](deploy-node-metadata.md#chain-id) and [Bootnodes](deploy-node-metadata.md#bootnodes)):
+3. Start the `geth` node (see [Chain ID](chain-metadata.md#chain-id) and [Bootnodes](chain-metadata.md#bootnodes)):
 
         // notes:
         // bootnodes should be comma-separated

@@ -1,5 +1,5 @@
 ---
-id: deploy-node-address-setup
+id: chain-address-setup
 title: Address Setup
 sidebar_label: Address Setup
 ---

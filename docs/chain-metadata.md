@@ -1,5 +1,5 @@
 ---
-id: deploy-node-metadata
+id: chain-metadata
 title: Metadata
 sidebar_label: Metadata
 ---
@@ -34,7 +34,7 @@ https://testapi.gojoychain.com
 
 ## Enode URLs
 
-Use these enode URLs when you want to connect to a peer for [node discovery](deploy-node-node-discovery.md).
+Use these enode URLs when you want to connect to a peer for [node discovery](chain-node-discovery.md).
 
 ### Mainnet Enodes
 
@@ -58,7 +58,7 @@ enode://9fe91b7ceaf8dab268241a6cfc5f35dcd6969518f8be0ddee5dd5e58d117bf61bde7c7b0
 
 ## Bootnodes
 
-Even though a bootnode has an enode address, they are not regular nodes. Their primary purpose is for node discovery. When [adding a peer](deploy-node-node-discovery.md#add-peer), you should NOT be adding a bootnode enode address. Rather, you should add a [node's enode address](#enode-urls). Bootnodes should be added as a flag when starting your geth node.
+Even though a bootnode has an enode address, they are not regular nodes. Their primary purpose is for node discovery. When [adding a peer](chain-node-discovery.md#add-peer), you should NOT be adding a bootnode enode address. Rather, you should add a [node's enode address](#enode-urls). Bootnodes should be added as a flag when starting your geth node.
 
 ### Mainnet
 

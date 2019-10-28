@@ -6,13 +6,13 @@
     "Wallets": [
       "wallets-metamask"
     ],
-    "Deploy Node": [
-      "deploy-node-metadata",
-      "deploy-node-address-setup",
-      "deploy-node-client",
-      "deploy-node-sealer",
-      "deploy-node-attach-to-node",
-      "deploy-node-node-discovery"
+    "Gojoy Chain": [
+      "chain-metadata",
+      "chain-address-setup",
+      "chain-run-client-node",
+      "chain-run-sealer-node",
+      "chain-attach-to-node",
+      "chain-node-discovery"
     ],
     "JUSD Stablecoin": [
       "jusd-metadata"

@@ -1,5 +1,5 @@
 ---
-id: deploy-node-attach-to-node
+id: chain-attach-to-node
 title: Attach To Node
 sidebar_label: Attach To Node
 ---

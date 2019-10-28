@@ -1,5 +1,5 @@
 ---
-id: deploy-node-sealer
+id: chain-run-sealer-node
 title: Run Sealer Node
 sidebar_label: Run Sealer Node
 ---
@@ -8,13 +8,13 @@ sidebar_label: Run Sealer Node
 
 ## With Geth
 
-1. [Create an account](deploy-node-address-setup.md#create-new-address) that will be the recipient of any transaction fees
+1. [Create an account](chain-address-setup.md#create-new-address) that will be the recipient of any transaction fees
 2. Download the `geth` binary and `genesis.json` from the [Releases Page](https://github.com/gojoychain/releases/releases)
 3. Init the node:
 
         $ ./geth --datadir /your/data/dir init genesis.json
 
-4. Start the `geth` node (see [Chain ID](deploy-node-metadata.md#chain-id) and [Bootnodes](deploy-node-metadata.md#bootnodes)):
+4. Start the `geth` node (see [Chain ID](chain-metadata.md#chain-id) and [Bootnodes](chain-metadata.md#bootnodes)):
 
         // notes:
         // bootnodes should be comma-separated
