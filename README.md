@@ -1,13 +1,16 @@
 ## External Docs
+
 See https://docs.gojoychain.com for all public info. All private info will be placed here in our internal documentation.
 
 ## Deploy Docs
-```
+
+```bash
 $ cd website
 $ ./deploy.sh
 ```
 
 ## Server Nodes
+
 | Location                | Instance Name | IP             |
 |-------------------------|---------------|----------------|
 | Asia Pacific (Tokyo)    | Mainnet1      | 52.199.152.20  |
