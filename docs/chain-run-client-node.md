@@ -34,4 +34,4 @@ sidebar_label: Run Client Node
         --verbosity 4 \
         --bootnodes $BOOTNODES
 
-4. Run the [addPeer](chain-node-discovery.md#add-peer) command to start syncing
+4. [Add a peer](chain-node-discovery.md#add-peer) to start syncing

@@ -37,4 +37,4 @@ sidebar_label: Run Sealer Node
         --unlock $YOUR_ACCOUNT_ADDRESS \
         --password /path/to/pw/file
 
-5. Run the [addPeer](chain-node-discovery.md#add-peer) command to start syncing
+5. [Add a peer](chain-node-discovery.md#add-peer) to start syncing
