@@ -6,13 +6,13 @@ sidebar_label: Metadata
 
 ## Chain ID
 
-### Mainnet
+### Mainnet Chain ID
 
 ```text
 Chain ID: 18
 ```
 
-### Testnet
+### Testnet  Chain ID
 
 ```text
 Chain ID: 8899
@@ -20,13 +20,13 @@ Chain ID: 8899
 
 ## RPC URL
 
-### Mainnet
+### Mainnet RPC URL
 
 ```text
 RPC URL: https://api.gojoychain.com
 ```
 
-### Testnet
+### Testnet RPC URL
 
 ```text
 RPC URL: https://testapi.gojoychain.com
