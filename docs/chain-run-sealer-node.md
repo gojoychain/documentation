@@ -36,3 +36,5 @@ sidebar_label: Run Sealer Node
         --etherbase $YOUR_ACCOUNT_ADDRESS \
         --unlock $YOUR_ACCOUNT_ADDRESS \
         --password /path/to/pw/file
+
+5. Run the [addPeer](chain-node-discovery.md#add-peer) command to start syncing
