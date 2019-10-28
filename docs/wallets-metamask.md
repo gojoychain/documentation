@@ -4,7 +4,7 @@ title: Metamask
 sidebar_label: Metamask
 ---
 
-## Connecting to Gojoy with Metamask
+## Connect to Gojoy Chain with Metamask
 
 1. Download Metamask here:
     - [Chrome Web Store](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)
