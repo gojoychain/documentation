@@ -6,9 +6,6 @@
     "Wallets": [
       "wallets-metamask"
     ],
-    "Connect To Node": [
-      "connect-to-node-metadata"
-    ],
     "Deploy Node": [
       "deploy-node-metadata",
       "deploy-node-address-setup",
