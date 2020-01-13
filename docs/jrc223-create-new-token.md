@@ -6,7 +6,7 @@ sidebar_label: Create New Token
 
 ## Using Web3 (with Metamask)
 
-1. Make sure you have [Metamask](connect-to-node-metamask.md) installed and configured
+1. Make sure you have [Metamask](wallets-metamask.md) installed and configured
 2. Navigate to https://abi.hashex.org/
 3. Copy the following in the box `Enter your contract's ABI to auto-parse`:
 
