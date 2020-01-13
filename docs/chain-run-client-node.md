@@ -11,7 +11,8 @@ sidebar_label: Run Client Node
 
         $ ./geth --datadir /your/data/dir init genesis.json
 
-3. Start the `geth` node (see [Chain ID](chain-metadata.md#chain-id) and [Bootnodes](chain-metadata.md#bootnodes)):
+3. Add a [static-nodes.json](chain-node-discovery.md#static-nodes-json) file
+4. Start the `geth` node (see [Chain ID](chain-metadata.md#chain-id) and [Bootnodes](chain-metadata.md#bootnodes)):
 
         // notes:
         // bootnodes should be comma-separated
@@ -33,5 +34,3 @@ sidebar_label: Run Client Node
         --wsapi db,debug,eth,net,web3 \
         --verbosity 4 \
         --bootnodes $BOOTNODES
-
-4. [Add a peer](chain-node-discovery.md#add-peer) to start syncing

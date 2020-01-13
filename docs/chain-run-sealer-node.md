@@ -14,7 +14,8 @@ sidebar_label: Run Sealer Node
 
         $ ./geth --datadir /your/data/dir init genesis.json
 
-4. Start the `geth` node (see [Chain ID](chain-metadata.md#chain-id) and [Bootnodes](chain-metadata.md#bootnodes)):
+4. Add a [static-nodes.json](chain-node-discovery.md#static-nodes-json) file
+5. Start the `geth` node (see [Chain ID](chain-metadata.md#chain-id) and [Bootnodes](chain-metadata.md#bootnodes)):
 
         // notes:
         // bootnodes should be comma-separated
@@ -36,5 +37,3 @@ sidebar_label: Run Sealer Node
         --etherbase $YOUR_ACCOUNT_ADDRESS \
         --unlock $YOUR_ACCOUNT_ADDRESS \
         --password /path/to/pw/file
-
-5. [Add a peer](chain-node-discovery.md#add-peer) to start syncing
